@@ -4,7 +4,7 @@
 ##🚀 Sobre mim:
 
 Sou o Johon, um profissional em transição de carreira, atualmente sou residente no <a href="https://serratec.org/">Serratec - 2024.01</a> estudando desenvolvimento Fullstack.<br>
-Meu objetivo é adquirir experiência prática e desenvolver habilidades em diversas tecnologias web.
+Meu objetivo é adquirir experiência prática e desenvolver habilidades em diversas tecnologias.
 
 Este é o meu portfólio, onde irei compartilhar os projetos que venho desenvolvendo enquanto estudo para me tornar um desenvolvedor.
 
