@@ -3,7 +3,7 @@
 
 ##🚀 Sobre mim:
 
-Sou o Johon, um profissional em transição de carreira, atualmente sou estudando Análise e Desenvolvimento na UNIFESO.
+Sou o Johon, um profissional em transição de carreira, atualmente estou estudando Análise e Desenvolvimento na UNIFESO.<br>
 Ex-Residente Serratec 2024.01 <a href="https://serratec.org/">Serratec - 2024.01</a>curso de Programador Full Stack<br>
 Meu objetivo é adquirir experiência prática e desenvolver habilidades em diversas tecnologias.
 
